@@ -1,7 +1,8 @@
 You can download the application or source code: </br>
      1. myapp.app.zip is the mac version application for mac user.</br>
      2. myappInstaller.exe is the installer for windows user.</br>
-     3. The source code only contains an example of Threshold. I didn't include other functionalities or the OpenGL</br> version code in it.
+     3. The source code only contains an example of Threshold. I didn't include other functionalities or the OpenGL 
+        version code in it.
 
 # setup
 
